@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Milad
 
-<!--
-**Milad-F84/Milad-F84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end Developer focused on React.
+I enjoy building clean, scalable, and user-friendly web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- Tailwid CSS
+- React
+- Zustand
+- Git & GitHub
+- MUI
+- React Query
+- Rect Router
+- Vite
+- SASS/SCSS
+- Figma
+- Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- React-shop
+- Todo App
+- Memory Game
+
+### 📫 Contact
+- GitHub: https://github.com/Milad-F84
+- Email: miladfarajollahi84@gmail.com
+- Email: mfarajollahifrontend@gmail.com
