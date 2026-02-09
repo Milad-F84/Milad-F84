@@ -26,3 +26,4 @@ I enjoy building clean, scalable, and user-friendly web applications.
 - GitHub: https://github.com/Milad-F84
 - Email: miladfarajollahi84@gmail.com
 - Email: mfarajollahifrontend@gmail.com
+- Site: miladfarajollahi.info
