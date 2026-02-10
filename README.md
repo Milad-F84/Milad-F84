@@ -1,29 +1,40 @@
 ## 👋 Hi, I'm Milad
 
-Front-end Developer focused on React.
+Front-end Developer focused on React.  
 I enjoy building clean, scalable, and user-friendly web applications.
 
+---
+
 ### 🛠 Tech Stack
+**Languages & Styling**
 - HTML, CSS, JavaScript
-- Tailwid CSS
+- SASS / SCSS
+- Tailwind CSS
+
+**Frameworks & Libraries**
 - React
+- React Router
 - Zustand
-- Git & GitHub
-- MUI
 - React Query
-- Rect Router
+- MUI
+
+**Tools**
+- Git & GitHub
 - Vite
-- SASS/SCSS
 - Figma
 - Responsive Design
 
+---
+
 ### 🚀 Featured Projects
-- React-shop
+- React Shop
 - Todo App
 - Memory Game
 
+---
+
 ### 📫 Contact
-- GitHub: https://github.com/Milad-F84
-- Email: miladfarajollahi84@gmail.com
-- Email: mfarajollahifrontend@gmail.com
-- Site: https://miladfarajollahi.info/
+- GitHub: https://github.com/Milad-F84  
+- Email: miladfarajollahi84@gmail.com 
+- Website: https://miladfarajollahi.info/
+
