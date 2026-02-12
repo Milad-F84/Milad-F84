@@ -8,7 +8,6 @@ I enjoy building clean, scalable, and user-friendly web applications.
 ### 🛠 Tech Stack
 **Languages & Styling**
 - HTML, CSS, JavaScript
-- SASS / SCSS
 - Tailwind CSS
 
 **Frameworks & Libraries**
